@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "common/テンプレート.md",
+                "file": "common/TRRSジャック.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "テンプレート"
+              "title": "TRRSジャック"
             }
           }
         ],
@@ -221,8 +221,8 @@
   "lastOpenFiles": [
     "common/ダイオード（リードタイプ）.md",
     "common/TRRSジャック.md",
-    "common/image/trrs_01.png",
     "common/テンプレート.md",
+    "common/image/trrs_01.png",
     "common/image/diode_01.png",
     "common/image/diode_08.png",
     "common/image/diode_07.png",
