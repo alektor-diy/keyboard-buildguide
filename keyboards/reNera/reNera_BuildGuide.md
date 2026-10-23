@@ -38,9 +38,9 @@ reNeraの組み立てには概ね
 
 - [RP2040-Zero ファームウェア書き込み](../../common/RP2040-Zero_ファームウェア書き込み.md)
 
-書き込み用ファームウェアは以下で公開しています。
+ファームウェアファイルは以下からダウンロードしてください。
 
-https://github.com/alektor-diy/keyboard/blob/main/reNera/fw/renera_vial.uf2
+https://github.com/alektor-diy/keyboard/raw/main/reNera/fw/renera_vial.uf2
 
 ## 動作確認
 詳細な手順はリンク先をご確認ください。
