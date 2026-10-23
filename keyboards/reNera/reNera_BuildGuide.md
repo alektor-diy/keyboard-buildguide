@@ -72,3 +72,10 @@ https://github.com/alektor-diy/keyboard/raw/main/reNera/fw/renera_vial.uf2
 完成したら写真や感想をX（旧Twitter）へ投稿してもらえると嬉しいです！
 
 その際はキーボード名やハッシュタグ「#自作キーボード」「#AsKey_KB」などをつけてもらえれば、大喜びで設計者がいいね＆リポストさせていただきます。
+
+# 設定変更
+
+reNera の設定変更は Vial を用いて行います。  
+具体的な手順は以下のページなどをご確認ください。
+
+[【初心者向け】Vialでキーボードをカスタムしよう！](https://alektor.hatenablog.com/entry/2024/11/15/233435)
