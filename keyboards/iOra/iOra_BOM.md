@@ -37,5 +37,6 @@ iOraの組み立て、および使用に必要な部品の一覧です。
 | キーキャップ  | ・Choc V2対応（MX互換十字軸）<br>・17mmピッチ対応 | 48個 | [comugi caps](https://alektor.booth.pm/items/8780480) / [3Dデータ](https://alektor.booth.pm/items/7088445)        | 17mmピッチで使用可能なキーキャップをご用意ください  |
 | USBケーブル | USB Type-C                        |  1本 |                                                                                                                | PCとの接続用                      |
 | トラックボール | サイズ19mm                           |  2個 | [beekeeb](https://shop.beekeeb.com/products/19mm-trackball)/[そにっく工房(BOOTH)](https://booth.pm/ja/items/8738863) | お使いのボールによって動作が不安定になる可能性があります |
+| （任意）ゴム足 | 直径8mm                             |  4個 | [Amazon](https://amzn.asia/d/07QkCnMq)                                                                         | ケース底面滑り止め用                   |
 | 電池      | 単三                                |  2個 |                                                                                                                |                              |
 
